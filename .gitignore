@@ -1,0 +1,5 @@
+.DS_Store
+webpages/
+.Rhistory
+download/read_html_files_tukey.sh
+analysis/political_spectrum.png
