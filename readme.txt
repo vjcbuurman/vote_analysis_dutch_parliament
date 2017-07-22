@@ -1,3 +1,5 @@
+Note that the results of this analysis (especially before all todo's have been handled) have to be taken with a grain of salt.
+
 Warning:
 This repository contains many todo's:
 a few pertaining to data cleaning itself
